@@ -1,0 +1,22 @@
+h1 {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  background-color: black;
+    opacity:0.8;
+  height: 94px;
+}
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCXNlqVCWx6QZA-kwgLTxO2DIna0tOtq4FtlPg6G4dCeno0Na74v5pcWmiR28qiV5aXGnVQPPhgdX6NnjMv47AxeTxCZ4aW8dQ60u9iopBw&s=10")
+}
+
+body{ 
+background-size: cover;
+}
+p {
+ color: white;
+  font-size: 40px;
+ text-align: center;
+  background-color: black;
+    opacity:0.8;
+}
